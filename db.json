@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Complete project proposal",
+      "day": "2023-06-26",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Attend team meeting",
+      "day": "2023-06-28",
+      "reminder": false
+    },
+    {
+      "text": "New Task",
+      "day": "21 10:00",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
